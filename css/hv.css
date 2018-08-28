@@ -1,0 +1,23 @@
+h2{
+    background-color: rgba(206,202,201,0.5);
+}
+#tit{
+    background-color: rgba(219, 227, 236, 0.87);
+}
+.fot{
+    border: 3px solid gray;
+    width: 150px;
+    height: 150px;
+    align-content: center;
+}
+#fir{
+    font-family: Impact, Haettenschweiler;
+    background-color: white;
+}
+body{
+    background-color: rgba(219, 227, 236, 0.87);
+}
+.correo{
+    color: blue;
+    font-style: italic;
+}
